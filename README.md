@@ -1,2 +1,3 @@
 # Python_project
-A project to practice python and Django and get better at it
+## Social_book
+This is a social media app: One of those practice project to get better at python and django
